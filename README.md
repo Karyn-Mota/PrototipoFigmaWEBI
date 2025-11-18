@@ -6,9 +6,8 @@ Este repositório contém o **Projeto Final da disciplina Desenvolvimento Web I*
 **Instituição:** Instituto Federal do Ceará – Campus Maranguape  
 **Disciplina:** Desenvolvimento Web I  
 **Professor:** Thomaz Maia  
-**Aluno:** Karynne Mota de Abreu <br> 
+**Dupla:** [Karynne Mota de Abreu](https://github.com/Karyn-Mota) e [Maria Alice Cavalcante de Brito](https://github.com/alicecavalcante)  <br> 
 **Período:** 4º semestre  
-**Publicação:** GitHub Pages  
 
 ---
 
